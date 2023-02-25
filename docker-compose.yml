@@ -1,0 +1,28 @@
+services:
+  backend:
+    build: back-end
+    container_name: spring-app
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://db:5432/
+      - SPRING_DATASOURCE_USERNAME=postgres
+      - SPRING_DATASOURCE_PASSWORD=12345
+      - SPRING_JPA_HIBERNATE_DDL_AUTO=update
+    depends_on:
+      - db
+    ports:
+      - 2023:2023
+  db:
+    image: 'postgres:alpine'
+    container_name: db
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=12345
+    ports:
+      - 5432:5432
+
+
+  front-end:
+    build: front-end
+    container_name: react-app
+    ports:
+      - 3000:3000
