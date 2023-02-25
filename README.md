@@ -1,6 +1,5 @@
 # BankWebApp
-Definex final project
-App is on live at 
+Definex final project BankWebbApp is on live at 
 #### http://definex.analysis4nft.com 
 
 To build docker container. go to project directory which is contain docker-compose.yarnl file
