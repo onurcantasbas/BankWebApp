@@ -3,11 +3,12 @@ Definex final project
 App is on live at 
 #### http://definex.analysis4nft.com 
 
-To build docker container. go to project directory :
+To build docker container. go to project directory which is contain docker-compose.yarnl file
+and execute the code down below on powerShell:
 ```console
 docker-compose up
 ```
-execute on terminal.
+
 
 ## Aws deploy scheme 
 
