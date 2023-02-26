@@ -24,4 +24,5 @@ http://localhost:2023/swagger-ui/index.html    OR   http://definex.analysis4nft.
 ![localhost3000](https://user-images.githubusercontent.com/65484711/221343596-608bce52-8d62-4cb1-a874-d8715328b8bf.png)
 
 ## Structure
-![finalScheme](https://user-images.githubusercontent.com/65484711/221376194-375de944-dc37-4035-ac69-ae73ce271d7d.PNG)
+![finalScheme](https://user-images.githubusercontent.com/65484711/221385358-3b9bd7e4-be65-4d6b-8c40-fd4fd8a164b6.PNG)
+
