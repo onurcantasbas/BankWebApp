@@ -28,6 +28,7 @@ docker-compose up
 - Axios
 - Material UI
 - Validator
+- React Hook Form
 
 ###### Deployment
 - Amazon Web Service
