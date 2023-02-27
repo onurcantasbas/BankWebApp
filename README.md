@@ -15,7 +15,7 @@ then go to:
 - Java (version 17)
 - Spring boot (Framework)
 - PostgreSQL (Database)
-- Maven (Build tool)
+- Maven (Build tool, Build artifact and dependency repo)
 - Log4j (Log pattern: Client ip address, Triggered service & method, Username, Result success or fail).
 - Spring Security (Authentication - Authorization)
   - Jwt (Token)
