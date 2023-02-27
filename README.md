@@ -8,6 +8,34 @@ and execute the code down below on powerShell:
 docker-compose up
 ```
 
+## Technologies
+###### Back-end
+- Java
+- Spring boot
+- PostgreSQL
+- Log4j
+- Spring Security
+  - Jwt Token
+- JPA/Hibernate
+- Maven
+- Swagger UI
+- Lombok
+- JUnit
+- Twilio
+
+###### Front-end
+- React Js
+- Axios
+- Material UI
+- Validator
+
+###### Deployment
+- Amazon Web Service
+   - EC2 Instance
+   - Route 53
+- Docker
+- Windows IIS
+
 
 ## Aws deploy scheme 
 
