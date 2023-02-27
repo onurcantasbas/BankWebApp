@@ -7,6 +7,8 @@ and execute the code down below on powerShell:
 ```console
 docker-compose up
 ```
+then go to:
+#### http://localhost:3000/
 
 ## Technologies
 ###### Back-end
