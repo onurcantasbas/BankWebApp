@@ -22,14 +22,11 @@ docker-compose up
 - Lombok
 - JUnit
 - Twilio
-
 ###### Front-end
 - React Js
 - Axios
 - Material UI
 - Validator
-- React Hook Form
-
 ###### Deployment
 - Amazon Web Service
    - EC2 Instance
