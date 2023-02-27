@@ -1,5 +1,5 @@
 # BankWebApp
-Definex final project BankWebbApp is on live at 
+Definex final project BankWebApp is on live at 
 #### http://definex.analysis4nft.com 
 
 Clone repo: ```git clone https://github.com/onurcantasbas/BankWebApp.git```
