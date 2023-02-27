@@ -2,7 +2,7 @@
 Definex final project BankWebbApp is on live at 
 #### http://definex.analysis4nft.com 
 
-To build docker container. go to project directory which is contain docker-compose.yarnl file
+To build docker container. go to project directory which is contain docker-compose.yml file
 and execute the code down below on powerShell:
 ```console
 docker-compose up
