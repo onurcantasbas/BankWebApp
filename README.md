@@ -24,6 +24,7 @@ then go to:
 - Lombok
 - JUnit
 - Twilio
+- Monolithic architecture
 ###### Front-end
 - React Js
 - Axios
@@ -36,9 +37,7 @@ then go to:
 - Docker
 - Windows IIS
 
-
 ## Aws deploy scheme 
-
 ![awsScheme](https://user-images.githubusercontent.com/65484711/221343400-029d9960-4558-40b5-b667-4f438578ccc7.PNG)
 
 
