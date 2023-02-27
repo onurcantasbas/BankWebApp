@@ -15,7 +15,7 @@ docker-compose up
 - PostgreSQL
 - Log4j
 - Spring Security
-  - Jwt Token
+  - Jwt
 - JPA/Hibernate
 - Maven
 - Swagger UI
