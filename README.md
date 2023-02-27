@@ -4,7 +4,7 @@ Definex final project BankWebbApp is on live at
 
 Clone repo: ```git clone https://github.com/onurcantasbas/BankWebApp.git```
 
-To create a Docker container, navigate to the project directory containing the docker-compose.yml file and the code down below on powerShell:
+To create a Docker container, navigate to the project directory containing the docker-compose.yml file and execute the code down below on powerShell:
 ```console
 docker-compose up
 ```
