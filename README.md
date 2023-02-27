@@ -12,30 +12,32 @@ then go to:
 
 ## Technologies
 ###### Back-end
-- Java
-- Spring boot
-- PostgreSQL
-- Log4j
-- Spring Security
-  - Jwt
-- JPA/Hibernate
-- Maven
-- Swagger UI
-- Lombok
-- JUnit
-- Twilio
+- Java (version 17)
+- Spring boot (Framework)
+- PostgreSQL (Database)
+- Maven (Build tool)
+- Log4j (Log pattern: Client ip address, Triggered service & method, Username, Result success or fail).
+- Spring Security (Authentication - Authorization)
+  - Jwt (Token)
+- JPA/Hibernate (ORM)
+- Jakarta persistence (Entity relations)
+- Javax validator (Entity field validations)
+- Swagger UI (API Documentation)
+- Lombok (Code generator)
+- JUnit (Unit test)
+- Twilio (Sms service - outer api)
 - Monolithic architecture
 ###### Front-end
 - React Js
-- Axios
-- Material UI
-- Validator
+- Axios (Promised-based HTTP client)
+- Material UI (React component library)
+- Validator (Input validation)
 ###### Deployment
 - Amazon Web Service
-   - EC2 Instance
-   - Route 53
+   - EC2 Instance t2.micro (Virtual machine)
+   - Route 53 (Dns zone service)
 - Docker
-- Windows IIS
+- Windows IIS 
 
 ## Aws deploy scheme 
 ![awsScheme](https://user-images.githubusercontent.com/65484711/221343400-029d9960-4558-40b5-b667-4f438578ccc7.PNG)
