@@ -37,6 +37,7 @@ then go to:
 - Amazon Web Service
    - EC2 Instance t2.micro (Virtual machine)
    - Route 53 (Dns zone service)
+      - Dns zone A record 
 - Docker
    - Back-end image -> openjdk:17-oracle
    - Front-end image -> node : alpine
