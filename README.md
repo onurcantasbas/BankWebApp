@@ -37,6 +37,9 @@ then go to:
    - EC2 Instance t2.micro (Virtual machine)
    - Route 53 (Dns zone service)
 - Docker
+   - Back-end image -> openjdk:17-oracle
+   - Front-end image -> node : alpine
+   - Db -> postgres:alpine
 - Windows IIS 
 
 ## Aws deploy scheme 
