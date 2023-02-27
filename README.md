@@ -39,7 +39,7 @@ then go to:
 - Docker
    - Back-end image -> openjdk:17-oracle
    - Front-end image -> node : alpine
-   - Db -> postgres:alpine
+   - Database image -> postgres:alpine
 - Windows IIS 
 
 ## Aws deploy scheme 
