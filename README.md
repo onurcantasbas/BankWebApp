@@ -1,6 +1,4 @@
 # BankWebApp
-Definex final project BankWebApp is on live at 
-#### http://definex.analysis4nft.com 
 
 Clone repo: ```git clone https://github.com/onurcantasbas/BankWebApp.git```
 
@@ -49,7 +47,7 @@ then go to:
 
 
 ## Swagger 
-http://localhost:2023/swagger-ui/index.html    OR   http://definex.analysis4nft.com:2023/swagger-ui/index.html
+http://localhost:2023/swagger-ui/index.html    
 
 ![swaggerUI](https://user-images.githubusercontent.com/65484711/221343562-61d02136-b177-437d-b907-78530de5332a.PNG)
             
